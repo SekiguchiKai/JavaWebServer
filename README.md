@@ -18,25 +18,24 @@ At this time, you can access following extension's files.
 
 ## Requirement
 * java version "1.8.0_92"
+* Eclipse neon
 
 
 ## Usage 
 
 ### run
 1. clone
-2. Hit the command ```gradle run```at Application root directory.
+2. run the project on your Eclipse.
 3. Start your browser.
 4. Visit ```http://localhost:8080/{resource name which you want to access}```
 (```{resource name which you want to access}``` is relative path of resource which you want to access.)
 
 ### test
-1. Hit the command ```gradle test``` at Application root directory.
+1. run the project as jUnit test on your Eclipse.
 
 ### add new directories/files
 1. add new directories/files under the ```src/main/resources/jp/co/topgate/sekiguchi/kai```.
-
-## Specifications of each classes.
-Please read JavaDocument under ```doc``` directory.
+s
 
 ## Licence
  [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
