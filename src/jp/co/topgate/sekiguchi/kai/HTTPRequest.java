@@ -105,7 +105,7 @@ public class HTTPRequest {
 	 */
 	public File getRequestResource(String requestURI) {
 
-		File file = new File("src/main/resources/jp/co/topgate/sekiguchi/kai" + requestURI);
+		File file = new File("src/resources" + requestURI);
 
 		System.out.println("クライアントが求めているリソースは" + file);
 

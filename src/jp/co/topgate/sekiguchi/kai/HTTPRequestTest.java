@@ -27,7 +27,7 @@ public class HTTPRequestTest {
 	/**
 	 * クライアントからのリクエストURIのjava.io.Fileインスタンス
 	 */
-	private File file = new File("src/main/resources/jp/co/topgate/sekiguchi/kai" + this.requestURI);
+	private File file = new File("src/resources" + this.requestURI);
 	/**
 	 * 拡張子
 	 */

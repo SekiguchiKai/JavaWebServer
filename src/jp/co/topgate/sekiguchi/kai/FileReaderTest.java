@@ -22,52 +22,52 @@ public class FileReaderTest {
 	/**
 	 * next.htmlのURI
 	 */
-	private File HTMLFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/next.html");
+	private File HTMLFile = new File("src/resources/next.html");
 	/**
 	 * index.jsのURI
 	 */
-	private File jsFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/index.js");
+	private File jsFile = new File("src/resources/index.js");
 	/**
 	 * next.htmlのURI
 	 */
-	private File CSSegFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/index.css");
+	private File CSSegFile = new File("src/resources/index.css");
 	/**
 	 * index.cssのURI
 	 */
-	private File jpegFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/cat.jpeg");
+	private File jpegFile = new File("src/resources/cat.jpeg");
 	/**
 	 * cat.jpegのURI
 	 */
-	private File pngFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/cat.png");
+	private File pngFile = new File("src/resources/cat.png");
 	/**
 	 * cat.gifのURI
 	 */
-	private File gifFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/cat.gif");
+	private File gifFile = new File("src/resources/cat.gif");
 
 	/**
 	 * hoge.htmlのURI
 	 */
-	private File notExistHTMLFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/hoge.html");
+	private File notExistHTMLFile = new File("src/resources/hoge.html");
 	/**
 	 * hoge.jsのURI
 	 */
-	private File notExistJsFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/hoge.js");
+	private File notExistJsFile = new File("src/resources/hoge.js");
 	/**
 	 * hoge.cssのURI
 	 */
-	private File notExistCSSegFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/hoge.css");
+	private File notExistCSSegFile = new File("src/resources/hoge.css");
 	/**
 	 * hoge.jpegのURI
 	 */
-	private File notExistJpegFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/hoge.jpeg");
+	private File notExistJpegFile = new File("src/resources/hoge.jpeg");
 	/**
 	 * hoge.pngのURI
 	 */
-	private File notExistPngFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/hoge.png");
+	private File notExistPngFile = new File("src/resources/hoge.png");
 	/**
 	 * hoge.gifのURI
 	 */
-	private File notExistGifFile = new File("src/main/resources/jp/co/topgate/sekiguchi/kai/hoge.gif");
+	private File notExistGifFile = new File("src/resources/hoge.gif");
 
 	@Test
 	/**
