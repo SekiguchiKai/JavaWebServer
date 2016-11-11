@@ -1,2 +1,3 @@
-rtifacts:
-    - "./build/reports/tests"
+general
+	artifacts:
+    		- "./build/reports/tests- "./build/reports/tests"
