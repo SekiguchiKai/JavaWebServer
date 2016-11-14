@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/SekiguchiKai/JavaWebServer.svg?style=svg)](https://circleci.com/gh/SekiguchiKai/JavaWebServer)
-
 overview
 Simple WebServer.
 
